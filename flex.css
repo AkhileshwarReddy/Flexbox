@@ -1,0 +1,19 @@
+html{
+	background: linear-gradient(to left, #06beb6, #48b1bf);
+	min-height: 100vh;
+	font-size: 20px;
+}
+
+
+.container > div{
+	color: #fff;
+	background-color: rgba(0, 0, 255, 0.2);
+	border: 1px solid #fff;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+}
+
+.container > div.hover{
+	background-color: rgba(0, 255, 0, 0.2);
+}
