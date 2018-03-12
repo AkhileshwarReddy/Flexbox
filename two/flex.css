@@ -1,0 +1,6 @@
+.container{
+	display: flex;
+	border: 1px solid black;
+	/*height: 100vh;*/
+	justify-content: /*flex-start*/ /*flex-end*/ center /*space-around*/ /*space-between*/;
+}
